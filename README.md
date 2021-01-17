@@ -20,3 +20,11 @@ Simple project with ability to reorder restaurant menu positions - both in back-
 
 
 ---
+
+
+
+## License
+
+Basically, feel free to use and re-use any way you want.
+
+---

@@ -1,4 +1,6 @@
-# Laravel-Restaurant-Menu
+# Laravel-Restaurant-Menu-With-Recording-Position 
+
+
 
 Simple project with ability to reorder restaurant menu positions - both in back-end only with Observers, and with drag-drop using jQuery UI Sortable.
 
@@ -27,4 +29,4 @@ Simple project with ability to reorder restaurant menu positions - both in back-
 
 Basically, feel free to use and re-use any way you want.
 
----
+
